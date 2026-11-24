@@ -4,16 +4,19 @@
 
 ## 目录
 
-| 目录 | 说明 | 状态 |
+| 路径 | 说明 | 状态 |
 | :--- | :--- | :--- |
+| [`skills/INVENTORY.md`](skills/INVENTORY.md) | 本机已安装 skills 盘点 | 已建档 |
+| [`tools/CANDIDATES.md`](tools/CANDIDATES.md) | 外部候选 skills / 工具调研清单 | 已建档 |
 | `skills/` | 自研或改造的 WorkBuddy skills（网文写作 / 办公写作 / 通用） | 规划中 |
 | `tools/` | 配套脚本与小工具 | 规划中 |
 
-> 目录尚未建立，当前以 Issue 作为任务台账；内容落地后补齐文件链接。
+> 当前以清单文档和 Issue 作为任务台账；实际文件目录落地后补齐链接。
 
 ## 当前进展
 
 - [x] 建立仓库任务清单（Issue #1 / #2 / #3）
+- [x] 完成本机 skills 盘点与外部候选调研（见上方两份清单）
 - [ ] 盘点并迁入已有 skills 与工具
 - [ ] 补充每个条目的用途、依赖和使用方式
 
